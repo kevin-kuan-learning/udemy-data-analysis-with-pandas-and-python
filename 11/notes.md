@@ -1,3 +1,4 @@
+(In anaconda prompt)
 
 >conda info --envs
 
